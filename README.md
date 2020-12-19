@@ -1,4 +1,4 @@
-# bot-wa by Ahmad
+# bot-wa
 
 # Cara install bot:
 #
@@ -6,9 +6,9 @@
 
 #>pkg install git
 
-#>git clone https://github.com/Ahmad-script/bot-wa
+#>git clone https://github.com/Ahmad-script/ndibot
 
-#>cd bot-wa
+#>cd ndibot
 
 #>pkg install wget
 
