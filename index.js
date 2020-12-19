@@ -13,7 +13,7 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
 const BotName = 'ndibot'; // Nama Bot Whatsapp
-const instagramlu = 'h'; // Nama Instagramlu cok
+const instagramlu = 'gtw'; // Nama Instagramlu cok
 const whatsapplu = '6281615019293'; // Nomor whatsapplu cok
 const kapanbotaktif = 'gtw'; // Kapan bot lu aktif
 const grupch1 = 'gk ada'; // OFFICIAL GRUP LU 1
